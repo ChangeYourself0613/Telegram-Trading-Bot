@@ -90,6 +90,6 @@ npm run serve
 ## Version 1.0,   21/6/2024
 
 ## Contact me
-- [Telegram](https://t.me/BTC0in23)
+- [Telegram](https://t.me/daveex0086)
 
-- [Github](https://github.com/btcoin23)
+- [Github](https://github.com/OnlyForward0613)
